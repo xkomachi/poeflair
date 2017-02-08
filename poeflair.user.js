@@ -14,7 +14,6 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-var baseflairbehavior = 0; // 0 = do nothing. 1 = change colors. 2 = remove.
 (function() {
     'use strict';
     function generateCss()
@@ -60,7 +59,6 @@ var baseflairbehavior = 0; // 0 = do nothing. 1 = change colors. 2 = remove.
     }
     
     
-    //{localStorage.setItem("2hu_suite_purchased_"+banner_id,"yes");
 //    var allflairs = document.getElementsByClassName("linkflairlabel");
     
 })();
