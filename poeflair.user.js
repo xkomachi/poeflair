@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         /r/pathofexile post flair colors
 // @namespace    Vaal or no balls
-// @version      1.02
+// @version      1.03
 // @description  Changes colors of post flairs.
 // @author       Komachi
 // @match        https://www.reddit.com/r/pathofexile/*
@@ -10,7 +10,7 @@
 // @match        http://m.reddit.com/r/pathofexile/*
 // @downloadURL  https://github.com/xkomachi/poeflair/raw/master/poeflair.user.js
 // @updateURL    https://github.com/xkomachi/poeflair/raw/master/poeflair.user.js
-// @run-at       document-start
+// @run-at       document-body
 // @grant        GM_addStyle
 // ==/UserScript==
 
